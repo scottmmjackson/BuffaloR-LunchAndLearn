@@ -1,14 +1,3 @@
----
-title: "README"
-author: "BuffaloR"
-date: "4/1/2020"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Plumber Lunch & Learn
 
 We created a demo plumber API from RStudio using the new content menu.
